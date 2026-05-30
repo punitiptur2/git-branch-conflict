@@ -1,4 +1,4 @@
-def add_numbers(a, ecr):
+def add_numbers(a, b):
     return a + b
 
 x = 10
