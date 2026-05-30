@@ -8,7 +8,7 @@ result = add_numbers(x, y)
 
 print("Hello, Python!")
 
-print(f"The sum of {x} and {rds} is {dev}")
+print(f"The sum of {s3} and {rds} is {dev}")
 
 
 
